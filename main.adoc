@@ -1,0 +1,10 @@
+= Main Page
+Doc Writer <stephen@thinkedg.com>
+v2.0.10, 2020-12-02  11-48-07
+:toc:
+:toclevels: 5
+:source-higlighter: pygments
+:pygments-style: emacs
+:icons: font
+
+== Objective
